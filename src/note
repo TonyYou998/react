@@ -1,0 +1,9 @@
+bt1
+    header
+    content
+    side bar
+    footer
+* componnent:
+     +stateful
+            
+     +stateles
