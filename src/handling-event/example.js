@@ -24,10 +24,12 @@ export default class ExampleHandlingEvent extends Component {
         // )
         return this.islogin ? <p>hello {this.username}</p> : <button className="btn btn-success" onClick={this.handleLogin}  >login</button>
 
+
     }
     render() {
         return (
             <div>
+                
                 {this.renderHTML()}
             </div>
         )
