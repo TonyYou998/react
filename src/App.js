@@ -20,6 +20,7 @@ import Index from "./ontap/prop/index";
 
 import DemoProps from './ontap/prop/demoProps';
 import BaiTapGioHang from "./baitapgiohang/BaiTapGioHang";
+import Home from "./usermanagement_redux";
 function App() {
 
   return (
@@ -45,6 +46,8 @@ function App() {
       {/* <DemoProps hello={"bell"} /> */}
       {/* <DemoProps hello={"tan"} /> */}
       <BaiTapGioHang />
+      <hr />
+      <Home />
     </div>
 
 

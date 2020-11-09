@@ -27,7 +27,7 @@ export default class SanPhamGioHang extends Component {
                                 this.props.addCart(product);
                             }}
                         >
-                            Thêm giỏ hàngs
+                            Thêm giỏ hàng
             </button>
                     </div>
                 </div>
